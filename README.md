@@ -8,4 +8,6 @@ There are many functions with this bot when you look at the source code, so chec
 
 ## Functions
 
+/AIplot
+
 
