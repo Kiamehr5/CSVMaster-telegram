@@ -8,6 +8,11 @@ There are many functions with this bot when you look at the source code, so chec
 
 ## Functions
 
+### Note
+For every function you must upload your file. Sorry for any inconvenience
+
+
+
 /AIplot
 
 Creates a plot with the red line being AI(Scikit Learn) giving a estimate of how high or low whatever your data is.
